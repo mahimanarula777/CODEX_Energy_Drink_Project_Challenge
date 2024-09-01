@@ -1,22 +1,22 @@
 # CODEX_Energy_Drink_Project_Challenge 🔍
 
-### Introduction
+## Introduction
 
 **Domain:** F & B Function: Marketing
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
-**#### Problem Statement**
+### Problem Statement
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
-**#### Datasets used**
+### Datasets used
 Three key datasets for this case study
 
 dim_respondents
 dim_cities
 fact_survey_responses
 
-**#### Project Challenge Questions**
+### Project Challenge Questions
                   
 **1. Demographic Insights (examples)**
    a. Who prefers energy drink more? (male/female/non-binary?)
