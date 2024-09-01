@@ -19,12 +19,12 @@ fact_survey_responses
 ### Project Challenge Questions
                   
 **1. Demographic Insights (examples)**
-   #### a. Who prefers energy drink more? (male/female/non-binary?)
-   #### b. Which age group prefers energy drinks more?
+   ##### a. Who prefers energy drink more? (male/female/non-binary?)
+   ##### b. Which age group prefers energy drinks more?
    ##### c. Which type of marketing reaches the most Youth (15-30)?
 
 **2. Consumer Preferences:**
-  a. What are the preferred ingredients of energy drinks among respondents?
+  *a. What are the preferred ingredients of energy drinks among respondents?*
   b. What packaging preferences do respondents have for energy drinks?
 
 **3. Competition Analysis:**
