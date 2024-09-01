@@ -1,6 +1,6 @@
 # CODEX_Energy_Drink_Project_Challenge 🔍
 
-**### Introduction**
+### Introduction
 
 **Domain:** F & B Function: Marketing
 
