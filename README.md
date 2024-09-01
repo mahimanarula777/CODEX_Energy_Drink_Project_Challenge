@@ -51,4 +51,4 @@ fact_survey_responses
    
   a. Which area of business should we focus more on our product development? (Branding/taste/availability)
   
-Click here to view the Complete Visual Presentation!
+Check out the Complete Visual Presentation in main file folder. Thank you!
